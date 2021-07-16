@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+}
+
+.navigation {
+    background: black;
+    height: 56px;
+    display: flex;
+}
+
+.nav_list {
+    color: white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.nav_list_item {
+    
+}
